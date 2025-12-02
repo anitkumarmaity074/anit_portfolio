@@ -1,4 +1,4 @@
-# Saurabh Tiwari – Resume Website
+# Anit Kumar Maity – Resume Website
 
 This is my personal resume website built using HTML, CSS, and Bootstrap.
 
